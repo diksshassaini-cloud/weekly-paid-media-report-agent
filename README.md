@@ -42,14 +42,9 @@ Schedule (Mon 9 AM)
 Account total for the latest week: spend ₹42,300, revenue ₹89,900, ROAS 2.13x.
 
 ## How to set it up
-1. Create the Google Sheet: [`docs/sheet_setup.md`](docs/sheet_setup.md)
-2. Build the Make scenario: [`docs/make_scenario_setup.md`](docs/make_scenario_setup.md)
-3. Paste the prompt from [`prompts/report_analyst_prompt.md`](prompts/report_analyst_prompt.md) into the AI module.
-
-## Results
-TODO: add a screenshot of the Make scenario canvas.
-TODO: add a screenshot of the generated email.
-TODO: add one line on time saved, e.g. "replaces about 2 hours of manual weekly reporting per client" (only if you can justify it).
+1. Create the Google Sheet:https://docs.google.com/spreadsheets/d/1qJ7uvd02NJiQTUhrARC0WBec7LSBVK2Gx7EGBsOp9Eo/edit?usp=sharing
+3. Build the Make scenario
+4. Paste the prompt
 
 ## Tech
 Make.com, Google Sheets, Google Gemini API, Gmail.
