@@ -1,6 +1,6 @@
 # Weekly Paid Media Report Agent
 
-An AI agent built in Make.com (no code) that turns raw weekly ad data into a client-ready performance report, flags the campaigns that need action, and emails the result every Monday.
+An AI agent built in Make.com (no code) that turns raw weekly ad data into a client-ready performance report, flags the campaigns that need action, and emails the result.
 
 ## The problem
 Agencies spend hours every week pulling numbers from Meta and Google, calculating ROAS and CPA, spotting what broke, and writing the client email. It is repetitive, and the analysis is often rushed or skipped.
@@ -14,7 +14,7 @@ Agencies spend hours every week pulling numbers from Meta and Google, calculatin
 
 ## Architecture
 ```
-Schedule (Mon 9 AM)
+Schedule:
    -> Google Sheets (search rows, pre-calculated metrics)
    -> Text Aggregator (all campaigns in one payload)
    -> Gemini AI (analyst prompt, temperature 0.2)
