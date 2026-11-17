@@ -2,8 +2,6 @@
 
 An AI agent built in Make.com (no code) that turns raw weekly ad data into a client-ready performance report, flags the campaigns that need action, and emails the result every Monday.
 
-> **Status:** replace the placeholders marked `TODO` with your own screenshots and results after you run it.
-
 ## The problem
 Agencies spend hours every week pulling numbers from Meta and Google, calculating ROAS and CPA, spotting what broke, and writing the client email. It is repetitive, and the analysis is often rushed or skipped.
 
