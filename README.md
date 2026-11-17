@@ -60,4 +60,4 @@ Make.com, Google Sheets, Google Gemini API, Gmail.
 - No benchmark comparison yet (industry or client-specific targets).
 
 ## Author
-Diksha Saini. Performance marketing, Kraftshala Marketing Launchpad.
+Diksha Saini
