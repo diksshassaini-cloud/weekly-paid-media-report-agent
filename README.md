@@ -47,9 +47,12 @@ Account total for the latest week: spend ₹42,300, revenue ₹89,900, ROAS 2.13
 Make.com, Google Sheets, Google Gemini API, Gmail.
 
 ## Limitations and next steps
-- Uses sample data. The next step is connecting live Meta and Google Ads exports (Windsor.ai or a scheduled CSV export into the Sheet).
-- Thresholds are fixed. They could be made per-client in a settings tab.
-- No benchmark comparison yet (industry or client-specific targets).
+- Runs on sample data. Next step: feed it live Meta and Google Ads exports (a scheduled CSV export or a connector).
+- Totals are added up by the AI. Next step: add a totals row to the Sheet so every figure comes from a formula.
+- Fixed thresholds. Next step: per-client targets in a settings tab.
+- No benchmarks yet. Next step: compare against each client's own goals.
+- Output needs a human check before it goes to a real client. The agent drafts and a marketer approves.
 
 ## Author
 Diksha Saini
+Connect on LinkedIn: https://www.linkedin.com/in/dikshasainipersonalbrandstrategist/
