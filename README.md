@@ -25,7 +25,6 @@ Schedule (Mon 9 AM)
 - **Maths in the Sheet, judgement in the AI.** Language models can get arithmetic wrong, so they only interpret numbers that are already correct.
 - **Explicit rules in the prompt.** "Problem" and "winner" are defined with thresholds (for example ROAS down more than 15% WoW), so output is consistent week to week.
 - **Hypotheses, not claims.** The prompt forces the AI to say "likely creative fatigue" and what to check first, because data alone cannot prove a cause.
-- **Low temperature (0.2)** for repeatable reports.
 
 ## Sample data
 `sample_data/ad_performance.csv` is **made-up demo data** for 5 campaigns across 4 weeks. It is deliberately built with two issues for the agent to catch:
